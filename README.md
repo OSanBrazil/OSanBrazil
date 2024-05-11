@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OSanBrazil
 - 👀 I’m interested in programming Apps, Games, C#, C, JavaScript, Python, Basic, assembly etc.
 - 🌱 I’m currently learning Python, C#, C, assembly, SQL.
-- 😄 Pronouns: You.
 
 <!---
 OSanBrazil/OSanBrazil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
